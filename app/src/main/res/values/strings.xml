@@ -1,4 +1,11 @@
 <resources>
+    <string-array name="repeat_frequency">
+        <item>Repeat Daily</item>
+        <item>Repeat Weekly</item>
+        <item>Repeat Monthly</item>
+        <item>Repeat Quarterly</item>
+        <item>Repeat Yearly</item>
+    </string-array>
     <string name="app_name">Android Data Playground</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
